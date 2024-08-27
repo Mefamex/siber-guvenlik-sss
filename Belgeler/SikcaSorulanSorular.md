@@ -247,7 +247,7 @@ https://bit.ly/3qoim07
 
 
 
-## ([▲](#top)) Bir cok eğitimin içinde anlatılıyor ama sadece Networking öğrenmek için hangi eğitime bakmalıyım? <a name="question23"></a>
+## ([▲](#top)) Bir çok eğitimin içinde anlatılıyor ama sadece Networking öğrenmek için hangi eğitime bakmalıyım? <a name="question23"></a>
 Bunun için hedefin CCNA eğitimleri olmalı, ancak orada da temel router switch yapılandırmaları işin içine giriyor. Udemyde çok güzel CCNA eğitimleri var, Türkçleri de var.
 Ancak dersen ki bu işin böyle hap gibi çok hızlı bir şekilde mantığını anlayayım, en azından internet nasil çalışıyor ona bakayim... O zaman...
 https://gelecegiyazanlar.turkcell.com.tr/konu/temel-network
@@ -257,7 +257,7 @@ ayrica youtube da da bununla ilgili güzel bir playlist buldum : https://www.you
 
 
 
-## ([▲](#top)) Abi sizma testi hadisesine ilgi duyuyorum da bir şeyleri kırmadan dökmeden nasıl kendimi test edebilirim? <a name="question24"></a>
+## ([▲](#top)) Abi sızma testi hadisesine ilgi duyuyorum da bir şeyleri kırmadan dökmeden nasıl kendimi test edebilirim? <a name="question24"></a>
 - *Kali Linux* indirdin mi? süper! O zaman [şuraya](https://www.hackthebox.eu/) gidiyorsun.
 - Oraya join dediğinde invite kodu gir diyecek. İşte o kodu, o siteden kazıyarak çıkartman gerek. Ya da ben bu işlere hazır değilim diyorsan şu adreslerdeki örnekleri kullanarak kendine bir kod yaratabilirsin.
 https://medium.com/@sonusaikishan/hackthebox-how-to-get-the-invite-code-and-enter-into-hackthebox-eu-fb4f3f24dc6c \
@@ -298,7 +298,7 @@ https://www.twitch.tv/videos/639357674
 
 
 
-## ([▲](#top)) Kali Linux mu? Parrot mu?  <a name="question28"></a>
+## ([▲](#top)) Kali Linux mü? Parrot mu?  <a name="question28"></a>
 Ben *Parrot* sevip, *Kali* kullanıyorum. Çünkü, Parrot daha stabil ama Kali'nin daha çok desteği var. Aynı bu şekilde tamamen tercihine kalmış bir şey.    
 Ya da gündelik kullanım icin kurarsın bir Ubuntu/Mint, çok istiyorsan *katoolin* ile Kali toollarini içine kurarsın,  
 Ya da gidersin, ihtiyacın kadar olan toollari snapden vs kendin derler kurarsın...   
